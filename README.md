@@ -13,6 +13,6 @@ Rode o projeto utilizando o [yarn](https://yarnpkg.com/):
 ```
 
 ## :file_folder:Tecnologias utilizadas
-[ReactJS](https://reactjs.org/)
-[Typescript](https://www.typescriptlang.org/)
-[Firebase](https://firebase.google.com/)
+#### [ReactJS](https://reactjs.org/)
+#### [Typescript](https://www.typescriptlang.org/)
+#### [Firebase](https://firebase.google.com/)
